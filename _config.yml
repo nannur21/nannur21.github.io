@@ -13,6 +13,7 @@ avatar: /avatar.jpg
 #skin: midnight
 #remote_theme: andrewhwanpark/dark-poole
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: dark
 
 include:
   - _pages
