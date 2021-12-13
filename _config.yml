@@ -1,6 +1,6 @@
 #remote-theme: andrewhwanpark/dark-poole
 title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Personal site of Juan Rizo
 author: Juan Rizo
 location: Perú 🇵🇪
 paginate: 20
@@ -8,6 +8,18 @@ subscribe: false
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: midnight
+
+# SEO Tag (Optional)
+twitter:
+  username: Milhouse_Van_Ho
+  card: summary
+logo: avatar.jpg
+social:
+  name: Juan Riso Name
+  links:
+    - https://twitter.com/Milhouse_Van_Ho
+    - https://github.com/ngzhio
+lang: en
 
 plugins:
   - jekyll-remote-theme
