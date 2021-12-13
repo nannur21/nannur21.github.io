@@ -11,6 +11,9 @@ avatar: /avatar.jpg
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: midnight
 
+include:
+  - _pages
+
 # SEO Tag (Optional)
 twitter:
   username: Milhouse_Van_Ho
