@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
 read_time: true
 
-author_profile: true
+
 author:
   name     : "Juan Rizo"
   avatar   : "/avatar.jpg"
@@ -28,8 +28,10 @@ include:
   
 defaults:
   - scope:
-    path: ""      
-    type: "posts"
+      path: ""      
+      type: "posts"
+    values:
+      author_profile: true
 
 # SEO Tag (Optional)
 # twitter:
