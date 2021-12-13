@@ -13,6 +13,11 @@ skin: midnight
 
 include:
   - _pages
+  
+defaults:
+  - scope:
+    path: ""      
+    type: "posts"
 
 # SEO Tag (Optional)
 twitter:
