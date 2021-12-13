@@ -12,7 +12,7 @@ avatar: /avatar.jpg
 #remote_theme: ngzhio/jekyll-theme-hamilton
 #skin: midnight
 #remote_theme: andrewhwanpark/dark-poole
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 include:
   - _pages
@@ -23,16 +23,16 @@ defaults:
     type: "posts"
 
 # SEO Tag (Optional)
-twitter:
-  username: Milhouse_Van_Ho
-  card: summary
-  logo: avatar.jpg
-social:
-  name: Juan Riso Name
-  links:
-    - https://twitter.com/Milhouse_Van_Ho
-    - https://github.com/ngzhio
-lang: en
+# twitter:
+#   username: Milhouse_Van_Ho
+#   card: summary
+#   logo: avatar.jpg
+# social:
+#   name: Juan Riso Name
+#   links:
+#     - https://twitter.com/Milhouse_Van_Ho
+#     - https://github.com/ngzhio
+# lang: en
 
 plugins:
   - jekyll-remote-theme
