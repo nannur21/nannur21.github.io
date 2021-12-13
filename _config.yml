@@ -5,6 +5,7 @@ author: Juan Rizo
 location: Perú 🇵🇪
 paginate: 20
 subscribe: false
+avatar: /avatar.jpg
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: midnight
@@ -12,8 +13,7 @@ skin: midnight
 # SEO Tag (Optional)
 twitter:
   username: Milhouse_Van_Ho
-  card: summary
-logo: avatar.jpg
+  #card: summary
 social:
   name: Juan Riso Name
   links:
