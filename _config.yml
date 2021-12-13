@@ -9,10 +9,10 @@ subscribe: false
 avatar: /avatar.jpg
 
 
-remote_theme: ngzhio/jekyll-theme-hamilton
-skin: midnight
+#remote_theme: ngzhio/jekyll-theme-hamilton
+#skin: midnight
 #remote_theme: andrewhwanpark/dark-poole
-#remote_theme: andrewhwanpark/dark-poole
+remote_theme: mmistakes/minimal-mistakes
 
 include:
   - _pages
