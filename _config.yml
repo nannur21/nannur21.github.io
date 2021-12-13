@@ -15,16 +15,15 @@ subscribe: false
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
 
-author:
+owner:
   name     : "Juan Rizo"
   avatar   : "/avatar.jpg"
   bio      : "I'm a software engineer. Build things"
   location : "Lima, Peru 🇵🇪"
   
-author_profile: true
 
-include:
-  - _pages
+# include:
+#   - _pages
   
 defaults:
   - scope:
