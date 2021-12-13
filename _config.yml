@@ -14,8 +14,6 @@ subscribe: false
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
-read_time: true
-
 
 author:
   name     : "Juan Rizo"
@@ -32,6 +30,10 @@ defaults:
   - scope:
       path: ""      
       type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
 
 # SEO Tag (Optional)
 # twitter:
