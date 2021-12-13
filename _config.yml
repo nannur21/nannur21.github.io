@@ -14,7 +14,8 @@ skin: midnight
 # SEO Tag (Optional)
 twitter:
   username: Milhouse_Van_Ho
-  #card: summary
+  card: summary
+  logo: avatar.jpg
 social:
   name: Juan Riso Name
   links:
