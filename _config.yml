@@ -1,4 +1,4 @@
-#remote-theme: andrewhwanpark/dark-poole
+
 title: Juan Rizo blog
 description: Personal site of Juan Rizo
 author: Juan Rizo
@@ -11,7 +11,8 @@ avatar: /avatar.jpg
 
 #remote_theme: ngzhio/jekyll-theme-hamilton
 #skin: midnight
-remote_theme: andrewhwanpark/dark-poole
+#remote-theme: andrewhwanpark/dark-poole
+#remote_theme: andrewhwanpark/dark-poole
 
 include:
   - _pages
