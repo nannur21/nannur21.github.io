@@ -27,12 +27,12 @@ defaults:
   - scope:
       path: ""      
       type: "posts"
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
 
-SEO Tag (Optional)
+#SEO Tag (Optional)
 twitter:
   username: Milhouse_Van_Ho
   card: summary
