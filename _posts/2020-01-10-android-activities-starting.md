@@ -9,10 +9,6 @@ If you're an old timer like me you might be wondering about `UITableViewDataSour
 
 What about a preview of our UI in different devices in light and dark mode? SwiftUI also got us covered there 👇🏽
 
-{% highlight swift %}
-{% include posts/15_swiftUITesting/Preview.swift %}
-{% endhighlight %}
-
 As a side note, running the following command on a terminal will print out all available simulators in our environment. 
 
 {% highlight shell %}
