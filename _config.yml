@@ -8,6 +8,8 @@ paginate: 20
 subscribe: false
 #avatar: /avatar.jpg
 
+markdown:    kramdown
+
 
 #remote_theme: ngzhio/jekyll-theme-hamilton
 #skin: midnight
@@ -20,6 +22,7 @@ owner:
   avatar   : "/avatar.jpg"
   bio      : "I'm a software engineer. Build things"
   location : "Lima, Peru 🇵🇪"
+  twitter  : Milhouse_Van_Ho
   
 
 # include:
