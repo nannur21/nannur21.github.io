@@ -11,9 +11,10 @@ avatar: /avatar.jpg
 
 #remote_theme: ngzhio/jekyll-theme-hamilton
 #skin: midnight
-#remote_theme: andrewhwanpark/dark-poole
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
+read_time: true
 
 include:
   - _pages
