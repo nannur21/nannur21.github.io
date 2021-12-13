@@ -2,31 +2,26 @@
 title: Juan Rizo
 description: Personal site of Juan Rizo
 author: Juan Rizo
-#location: Lima, Peru 🇵🇪
+location: Lima, Peru 🇵🇪
 email: ngzhio@gmail.com
 paginate: 20
 subscribe: false
-#avatar: /avatar.jpg
-
-markdown:    kramdown
-
+avatar: /avatar.jpg
 
 #remote_theme: ngzhio/jekyll-theme-hamilton
 #skin: midnight
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: dark
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# minimal_mistakes_skin: dark
+# owner:
+#   name     : "Juan Rizo"
+#   avatar   : "/avatar.jpg"
+#   bio      : "I'm a software engineer. Build things"
+#   location : "Lima, Peru 🇵🇪"
+#   twitter  : Milhouse_Van_Ho
 
-owner:
-  name     : "Juan Rizo"
-  avatar   : "/avatar.jpg"
-  bio      : "I'm a software engineer. Build things"
-  location : "Lima, Peru 🇵🇪"
-  twitter  : Milhouse_Van_Ho
-  
-
-# include:
-#   - _pages
+include:
+  - _pages
   
 defaults:
   - scope:
@@ -37,19 +32,19 @@ defaults:
       author_profile: true
       read_time: true
 
-# SEO Tag (Optional)
-# twitter:
-#   username: Milhouse_Van_Ho
-#   card: summary
-#   logo: avatar.jpg
-# social:
-#   name: Juan Riso Name
-#   links:
-#     - https://twitter.com/Milhouse_Van_Ho
-#     - https://github.com/ngzhio
-# lang: en
+SEO Tag (Optional)
+twitter:
+  username: Milhouse_Van_Ho
+  card: summary
+  logo: avatar.jpg
+social:
+  name: Juan Riso Name
+  links:
+    - https://twitter.com/Milhouse_Van_Ho
+    - https://github.com/ngzhio
+lang: en
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache  
+#  - jekyll-include-cache  
 
