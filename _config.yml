@@ -8,8 +8,8 @@ paginate: 20
 subscribe: false
 avatar: /avatar.jpg
 
-#remote_theme: ngzhio/jekyll-theme-hamilton
-#skin: midnight
+remote_theme: ngzhio/jekyll-theme-hamilton
+skin: midnight
 
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # minimal_mistakes_skin: dark
