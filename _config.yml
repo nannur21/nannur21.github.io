@@ -8,8 +8,10 @@ paginate: 20
 subscribe: false
 avatar: /avatar.jpg
 
-remote_theme: ngzhio/jekyll-theme-hamilton
-skin: midnight
+
+#remote_theme: ngzhio/jekyll-theme-hamilton
+#skin: midnight
+remote_theme: andrewhwanpark/dark-poole
 
 include:
   - _pages
