@@ -22,6 +22,8 @@ author:
   avatar   : "/avatar.jpg"
   bio      : "I'm a software engineer. Build things"
   location : "Lima, Peru 🇵🇪"
+  
+author_profile: true
 
 include:
   - _pages
@@ -30,8 +32,6 @@ defaults:
   - scope:
       path: ""      
       type: "posts"
-    values:
-      author_profile: true
 
 # SEO Tag (Optional)
 # twitter:
